@@ -1,4 +1,5 @@
 Memeber of Threcolts Team
+<br>
 <a href="https://github.com/jis0324">
-  But We are same member
+  jis0324
 </a>
