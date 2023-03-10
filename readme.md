@@ -1,4 +1,4 @@
-<b>Check My Main Github Account</b> ==> <a href="https://github.com/jis0324">jis0324</a>
+<b>Check My Main Github Account</b> ==> <a href="https://github.com/jis0324">JIS0324</a>
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
@@ -16,18 +16,18 @@
 ## Github Analytics
 <p align="center">
     <img alig
-        src="https://github-profile-trophy.vercel.app/?username=jis0324&no-bg=true&no-frame=true&theme=onedark&column=7" />
+        src="https://github-profile-trophy.vercel.app/?username=elase0324&no-bg=true&no-frame=true&theme=onedark&column=7" />
 </p>
 <br>
 
 <!--START_SECTION:waka-->
-<!-- ![jis0324 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jis0324) -->
+<!-- ![elase0324 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=elase0324) -->
 <p align="center" style="display:flex;">
-<a href="https://github.com/jis0324">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jis0324&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+<a href="https://github.com/elase0324">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elase0324&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/jis0324">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jis0324&theme=highcontrast" /></a>
+<a href="https://github.com/elase0324">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elase0324&theme=highcontrast" /></a>
 </p>
 <!--END_SECTION:waka-->
 <br>
