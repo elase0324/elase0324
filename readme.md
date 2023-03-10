@@ -7,19 +7,11 @@
 <p align="center">
     <a href="">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=jis0324.jis0324">
-        <img src="https://img.shields.io/twitter/follow/AgaScoot_Reggae?color=red&label=Twitter&style=flat-square">
-        <!-- <img src="https://img.shields.io/youtube/channel/subscribers/UC3tF03J2dqJVmrKuYK2rNIA?label=Youtube&style=flat-square"> -->
     </a>
 </p>
 <!--**Statistik Efektif**-->
 
 ## Github Analytics
-<p align="center">
-    <img alig
-        src="https://github-profile-trophy.vercel.app/?username=elase0324&no-bg=true&no-frame=true&theme=onedark&column=7" />
-</p>
-<br>
-
 <!--START_SECTION:waka-->
 <!-- ![elase0324 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=elase0324) -->
 <p align="center" style="display:flex;">
