@@ -1,4 +1,4 @@
-<b>Check My Main Github Account</b> ==> <a href="https://github.com/jis0324">JIS0324</a>
+<b>More Details: </b> ==> <a href="https://github.com/jis0324">HERE</a>
 
 <!--START_SECTION:waka-->
 <!-- ![elase0324 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=elase0324) -->
